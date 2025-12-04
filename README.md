@@ -173,7 +173,7 @@ MIT License
 
 ## 👨‍💻 Автор
 
-Ваше имя - [GitHub профиль][(https://github.com/yourusername)](https://github.com/FSoU23)
+ [GitHub FSoU23][(https://github.com/yourusername)](https://github.com/FSoU23)
 
 ---
 
