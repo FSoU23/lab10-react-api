@@ -6,6 +6,10 @@
 
 ## 📸 Скриншоты
 
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/684e5a22-e0ce-48d9-8efe-070a1d048aa5" />
+<img width="871" height="623" alt="image" src="https://github.com/user-attachments/assets/d3bc4fea-48cd-437c-8d83-f62d517dd90d" />
+<img width="1891" height="906" alt="image" src="https://github.com/user-attachments/assets/b0b3038c-5c2b-4fef-85bc-6bd50b690b8b" />
+
 
 
 ## ⚡ Основной функционал
